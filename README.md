@@ -52,16 +52,16 @@ The system uses two datasets from TMDB:
 4. Run the Jupyter notebook (`movie_recommendation.ipynb`) to preprocess the data and generate the recommendation model.
 
 
-   # Example usage
+# Example usage
    
-   recommend("The Dark Knights Rises")
+recommend("The Dark Knights Rises")
 
-  **Output:**
+**Output:**
    
-   The Dark Knights Rises
-   Batman
-   Batman Begins
-   Batman Returns
+- The Dark Knights Rises
+- Batman
+- Batman Begins
+- Batman Returns
 
 
 ## License

@@ -53,18 +53,15 @@ The system uses two datasets from TMDB:
 
 
    # Example usage
+   
    recommend("The Dark Knights Rises")
-   ```
 
   **Output:**
-   ```
+   
    The Dark Knights Rises
    Batman
    Batman Begins
    Batman Returns
-      ```
-
-
 
 
 ## License

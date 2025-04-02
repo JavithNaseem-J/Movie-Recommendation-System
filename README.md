@@ -56,7 +56,7 @@ The system uses two datasets from TMDB:
    recommend("The Dark Knights Rises")
    ```
 
-   **Output:**
+  **Output:**
    ```
    The Dark Knights Rises
    Batman
